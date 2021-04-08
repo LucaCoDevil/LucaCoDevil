@@ -1,0 +1,1 @@
+My name is Luca, I'm a full-stack web developer, primarily focusing on the MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack. I enjoy creating easily used, fluid webApps while incorporating a fully functional back-end component. I also have a hard driven passion for writing dynamically loaded, efficient code that allows for an enjoyable user experience.
